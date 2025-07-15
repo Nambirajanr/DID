@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "TaxCredential": {
-      "@id": "https://mosip.github.io/inji-config/contexts/farmer.json#TaxCredential"
+      "@id": "https://github.com/Nambirajanr/DID/blob/gh-pages/tax.json#TaxCredential"
     },
     "id": "schema:Text",
     "date_of_birth": "schema:Text",
