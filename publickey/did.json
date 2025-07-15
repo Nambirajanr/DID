@@ -6,7 +6,7 @@
   "id": "did:web:nambirajanr.github.io:DID:publickey",
   "verificationMethod": [
     {
-      "publicKeyMultibase": "z6MkjMFY1W9LTrZGBWCosN8Y2bgZVqF48L6YE9ZN5sbGCyxT",
+      "publicKeyMultibase": "z6MktBkZw7EY4PqdAWjcatyJb4PqYtPicvtusd2EoQ7j6jFT",
       "controller": "did:web:nambirajanr.github.io:DID:publickey",
       "id": "did:web:nambirajanr.github.io:DID:publickey#key-0",
       "type": "Ed25519VerificationKey2020",
