@@ -8,7 +8,7 @@
       "@id": "https://mosip.github.io/inji-config/contexts/farmer.json#TaxCredential"
     },
     "id": "schema:Text",
-    "date_of_birth": "schema:birthDate",
+    "date_of_birth": "schema:Text",
     "id_type": "schema:Text",
     "id_number": "schema:Text",
     "issued_on": "schema:Text",
