@@ -5,7 +5,7 @@
     "type": "@type",
     "schema": "https://schema.org/",
     "TaxCredential": {
-      "@id": "https://github.com/Nambirajanr/DID/blob/gh-pages/tax.json#TaxCredential"
+      "@id": "https://nambirajanr.github.io/DID/tax.json#TaxCredential"
     },
     "id": "schema:Text",
     "date_of_birth": "schema:Text",
