@@ -7,7 +7,6 @@
     "TaxCredential": {
       "@id": "https://nambirajanr.github.io/DID/tax.json#TaxCredential"
     },
-    "id": "schema:Text",
     "date_of_birth": "schema:Text",
     "id_type": "schema:Text",
     "id_number": "schema:Text",
